@@ -4,7 +4,7 @@
 
 
 
-## CrxMouse Chrome™ Gestures
+## 1. CrxMouse Chrome™ Gestures
 
 **作用**：高度可自定义的鼠标手势、超级拖拽、鼠标滚轮手势、遥感手势，提升工作效率。
 
@@ -24,7 +24,7 @@
 
 
 
-## Merge Windows
+## 2. Merge Windows
 
 **作用**：合并所有Chrome窗口，如下图
 
@@ -44,7 +44,7 @@
 
 
 
-## Tab Number
+## 3. Tab Number
 
 **作用**：长按cmd/alt/ctrl显示Tab的数目，便于使用ctrl/alt/cmd+number快捷键切换Tab，在Tab很多时，快速切换Tab非常高效。
 
@@ -60,7 +60,7 @@
 
 
 
-## Keep Last Two Tabs
+## 4. Keep Last Two Tabs
 
 **作用**：总是为Chrome保持2个Tab，防止Chrome所有Tab被关闭时直接退出。
 
@@ -76,7 +76,7 @@
 
 
 
-## The Great Suspender
+## 5. The Great Suspender
 
 **作用**：指定时长后（例如半天）某Tab未被操作/访问，则该Tab将被关闭，从而释放Chrome占用的资源。简单易用，并且高度可定制：例如指定时长、指定白名单等。
 
@@ -92,7 +92,7 @@
 
 
 
-## Take Webpage Screenshots Entirely - FireShot
+## 6. Take Webpage Screenshots Entirely - FireShot
 
 **作用**：将网页截图(支持**滚动截图**、区域截图)，并支持保存为PDF、发送邮件等，**还支持API调用哦**。
 
@@ -112,7 +112,7 @@
 
 
 
-## GitCodeTree
+## 7. GitCodeTree
 
 **作用**：相信Geekers对Octotree不会感到陌生——一款GitHub文件树插件，帮助我们在线阅读源码。本插件基于Octotree基础上开发，同时支持GitHub以及Gitee。
 
@@ -132,7 +132,7 @@
 
 
 
-## JSON Viewer
+## 8. JSON Viewer
 
 **作用**：JSON美化工具
 
@@ -152,7 +152,7 @@
 
 
 
-## XPath Helper
+## 9. XPath Helper
 
 **作用**：在网页上轻松提取内容，并生成XPath查询语句，**精细爬虫工具必备**。
 
@@ -165,3 +165,28 @@
 **演示**：
 
 ![XPath Helper](images/xpath.gif)
+
+
+
+## 10. Git History Browser Extension
+
+**作用**：快速浏览文件的Git提交历史。
+
+**插件主页**：`https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related?utm_source=chrome-ntp-icon`
+
+**用户数**：5K
+
+**Star数**：4
+
+**演示**：
+
+![Git History Browser Extension](images/git-history.png)
+
+
+
+## 11. 其他
+
+* 油猴
+* Markdown Here
+
+太流行了，不多废话了。
