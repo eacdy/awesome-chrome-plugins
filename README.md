@@ -1,6 +1,7 @@
 # Awesome Chrome Plugins
 
 盘点那些好用的Chrome插件
+其他：https://mp.weixin.qq.com/s/z_3lw2MQl4LoTJ08T0EAew
 
 
 
